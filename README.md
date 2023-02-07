@@ -1,14 +1,15 @@
 # 🚁 Projekt Hubi 🚁
 
 # Patch-Notes
-#Version 1.5.3
+# Version 1.5.3
 
 (Neu) - Die Wolken werden von den Düsen der Raketen beschleunigt
 
 (Changes) - Neigung optimiert
 
 -----
-#Version 1.5.2
+
+# Version 1.5.2
 
 (Neu) - Hubi kann sich nun nach links und rechts neigen
 
@@ -20,7 +21,7 @@
 -----
 
 
-#Version 1.5.1
+# Version 1.5.1
 
 (Neu) Sounds (Achtung!!! Sehr Laut)
 
@@ -32,7 +33,7 @@
 -----
 
 
-#Version 1.5
+# Version 1.5
 
 (Neu) - Kollision zwischen Rakete & Rakete / Rakete & Hubi
 
@@ -47,7 +48,7 @@
 -----
 
 
-#Version 1.4
+# Version 1.4
 
 (Neu) - Objekte, welche nicht mehr gebraucht werden, werden jetzt automatisch gelöscht
 
@@ -64,7 +65,7 @@
 
 
 
-#Version 1.3
+# Version 1.3
 
 
 (Neu) - Raketen 🚀
@@ -78,7 +79,7 @@
 -----
 
 
-#Version 1.2.1
+# Version 1.2.1
 
 (Neu) - Loop in der Klasse Sprite
 
