@@ -1,5 +1,7 @@
 # 🚁 Projekt Hubi 🚁
 
+![image](https://user-images.githubusercontent.com/43272665/217475154-c1a5ad81-9a09-45cc-85bf-e0ff9820b1fd.png)
+
 # Patch-Notes
 # Version 1.5.3
 
